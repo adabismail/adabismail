@@ -51,7 +51,9 @@
 
 
 🛠️ **Signal Generator** — A waveform generator and analyzer for software/hardware. Built with JavaScript 
+<br>
 ⚡ Dynamic Data Table Manager — A production-ready Next.js + Redux Toolkit app for managing complex data tables with import/export, dynamic columns, search, sorting, and light/dark mode using MUI.
+<br>
 🧠 **Personal Memory OS** — Local AI assistant with embeddings + GPT integration
 
 </div>
