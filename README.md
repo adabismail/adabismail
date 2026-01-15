@@ -1,69 +1,91 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adabismail.adabismail" />
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adab+Ismail!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+Adab+Ismail;Information+Technology+Student;Building+Systems+with+Code;Welcome+to+my+Profile" />
 </h1>
 
-<h3 align="center">Information Technology Student · NIT Srinagar, India</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently building **Personal Memory OS** and **FlightPulse**
- 
- 🌱 Learning **Machine Learning**, **Data Structures in Java**, and **MERN Stack**
-
- 🧠 Focused on **AI, Backend Systems, and Real-world Developer Tools**
-
-</div>
-
-<br/>
-
-<div align="center"> 
-<a href="mailto:adabismail000@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-
-  <a href="https://www.linkedin.com/in/adabismail" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<p align="center">
+  <a href="https://github.com/adabismail">
+    <img src="https://img.shields.io/badge/NIT%20Srinagar-Information%20Technology-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="https://github.com/adabismail" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+</p>
 
-<hr/>
-
-<h2 align="center">⚙️ Languages · Frameworks · Tools ⚙️</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,tailwind,vscode,github,git" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,c,cpp" />
-</div>
+<p align="center">
+  <a href="mailto:adabismail000@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adabismail"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/adabismail"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=firefox&logoColor=white"/></a>
+</p>
 
 <br/>
-<hr/>
 
-<h2 align="center">🚀 Projects 🚀</h2>
-
-<div align="center">
-
-
-🛠️ **Signal Generator** — A waveform generator and analyzer for software/hardware. Built with JavaScript 
-<br>
-⚡ Dynamic Data Table Manager — A production-ready Next.js + Redux Toolkit app for managing complex data tables with import/export, dynamic columns, search, sorting, and light/dark mode using MUI.
-<br>
-🧠 **Personal Memory OS** — Local AI assistant with embeddings + GPT integration
-
-</div>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <br/>
+       I am an IT student passionate about <b>AI, Backend Systems, and Developer Tools</b>. I enjoy solving complex problems and building software that helps others be more productive.
+      <br/><br/>
+      <ul>
+        <li>🔭 <b>Working on:</b> Personal Memory OS & FlightPulse</li>
+        <li>🌱 <b>Learning:</b> Machine Learning, Data Structures (Java), MERN</li>
+        <li>💬 <b>Ask me about:</b> React, Node.js, and Java</li>
+        <li>⚡ <b>Fun Fact:</b> I built a signal generator in pure JavaScript!</li>
+      </ul>
+    </td>
+    <td width="45%" valign="center">
+      <h3 align="center">📊 GitHub Stats</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=adabismail&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph"  />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adabismail&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html" height="160" alt="languages graph" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h3>🛠️ Technologies & Tools</h3>
+<table>
+  <tr>
+    <td align="center" width="100"><b>Core</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3>🚀 Featured Projects</h3>
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Personal Memory OS** | A local AI assistant utilizing embeddings and GPT integration to act as a second brain. | `Python` `AI` `LLM` |
+| **FlightPulse** | *Currently in development.* A system designed for real-time tracking and data management. | `MERN` |
+| **Dynamic Data Manager** | Production-ready app for managing complex tables with import/export and dynamic columns. | `Next.js` `Redux` `MUI` |
+| **Signal Generator** | A waveform generator and analyzer for software/hardware testing. | `JavaScript` `Canvas` |
+
+<br/>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adabismail&layout=compact&theme=react&hide=HTML&border_radius=10" alt="top langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adabismail&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF&hide_border=true" width="100%"/>
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adabismail.adabismail" alt="visitor badge"/>
 </div>
